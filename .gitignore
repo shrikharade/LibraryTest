@@ -1,0 +1,9 @@
+**/.vs/
+**/.vscode
+**/bin/
+**/obj/
+**/tmp/
+**/temp/
+**/TestResults
+**/node_modules
+**/test/automation-test/reports/*
